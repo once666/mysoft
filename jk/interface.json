@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://99tv.ml/bg",
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/jk/jar/spider_1003.jar",
+    "spider": "http://pan.once.ga/d/tvbox_interface/jar/20221007.jar",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzM5LjEwMy4yMTIuNDA6MjAwMC9saXZlcy9saXZlLmpzb24="]}]}],
     "sites": [
     {"key":"csp_SP360","name":"99TV.ML |首页|","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
