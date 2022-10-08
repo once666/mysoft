@@ -156,7 +156,7 @@
 		},
 		{
 			"key": "哔哩",
-			"name": "哔哩哔哩 |JSON|",
+			"name": "哔哩哔哩 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -166,7 +166,7 @@
 		},
 		{
 			"key": "儿童",
-			"name": "儿童乐园 |JSON|",
+			"name": "儿童乐园 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -176,7 +176,7 @@
 		},
 		{
 			"key": "学习",
-			"name": "学习园地 |JSON|",
+			"name": "学习园地 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -186,7 +186,7 @@
 		},
 		{
 			"key": "软件",
-			"name": "软件教程 |JSON|",
+			"name": "软件教程 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -196,7 +196,7 @@
 		},
 		{
 			"key": "美食",
-			"name": "美食合集 |JSON|",
+			"name": "美食合集 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -206,7 +206,7 @@
 		},
 		{
 			"key": "音乐",
-			"name": "音乐现场 |JSON|",
+			"name": "音乐现场 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -216,7 +216,7 @@
 		},
 		{
 			"key": "热舞",
-			"name": "女团热舞 |JSON|",
+			"name": "女团热舞 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -226,7 +226,7 @@
 		},
 		{
 			"key": "戏曲",
-			"name": "戏曲合集 |JSON|",
+			"name": "戏曲合集 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -236,7 +236,7 @@
 		},
 		{
 			"key": "赛事",
-			"name": "体育赛事 |JSON|",
+			"name": "体育赛事 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -246,7 +246,7 @@
 		},
 		{
 			"key": "棋牌",
-			"name": "棋牌娱乐 |JSON|",
+			"name": "棋牌娱乐 |JS|",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
