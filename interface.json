@@ -155,7 +155,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        }
+        },
+    {"key":"哔哩","name":"哔哩哔哩 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
+    {"key":"儿童","name":"儿童乐园 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
+    {"key":"学习","name":"学习园地 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
+    {"key":"软件","name":"软件教程 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
+    {"key":"美食","name":"美食合集 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
+    {"key":"音乐","name":"音乐现场 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
+    {"key":"热舞","name":"女团热舞 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
+    {"key":"戏曲","name":"戏曲合集 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E7%B2%BE%E9%80%89%E6%88%8F%E6%9B%B2.json"},
+    {"key":"赛事","name":"体育赛事 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.json"},
+    {"key":"棋牌","name":"棋牌娱乐 |B站|","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sites/json/%E6%A3%8B%E7%89%8C%E5%A8%B1%E4%B9%90.json"}
     ],
     "parses": [
     {"name":"聚合","type":3,"url":"Demo"},
