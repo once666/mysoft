@@ -128,6 +128,16 @@
 			"filterable": 1
 		},
 		{
+			"key": "csp_AppTT",
+			"name": "图图影视 |SP|",
+			"type": 3,
+			"api": "csp_AppTT",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+		},
+		{
 			"key": "csp_kuaikan",
 			"name": "快看视频 |SP|",
 			"type": 3,
