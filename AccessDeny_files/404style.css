@@ -1,0 +1,83 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.conent {
+    text-align: center;
+    box-sizing: border-box
+}
+
+.accessDenySvg {
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 4.5%;
+    width: 29.1%;
+    height: 40.9%;
+}
+
+.clientSvg {
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 4%;
+    width: 29.2%;
+    height: 44.9%;
+}
+
+.serveSvg {
+    margin: 0 auto;
+    margin-top: 10%;
+    margin-bottom: 4.8%;
+    width: 29.3%;
+    height: 41.5%;
+}
+
+.err {
+    font-family: PingFangSC-Semibold;
+    font-size: 1em;
+    color: #000000;
+    margin-bottom: 2.6%;
+}
+
+.text1 {
+    font-family: PingFangSC-Regular;
+    font-size: 0.75em;
+    color: #888888;
+    letter-spacing: 0;
+    margin-bottom: 1%;
+}
+
+.text2 {
+    font-family: PingFangSC-Regular;
+    font-size: 0.75em;
+    color: #000000;
+    letter-spacing: 0;
+}
+
+#copy {
+    cursor: pointer;
+    position: relative;
+}
+
+.tooltips {
+    position: absolute;
+    top: -2.4em;
+    left: -2.6em;
+    width: 6em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    background-color: white;
+    font-size: 1em;
+    box-shadow: 0 0 1em #888888;
+    display: none;
+}
+
+.text-color {
+    color: #0061fc;
+}
