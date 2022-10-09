@@ -1,3 +1,5 @@
+// 声明：私人自用接口，请勿盗链。非法使用者的一切行为，与本仓无关；本仓不为使用者的行为承担任何法律责任。
+// Statement: private interface, no stealing. All acts of illegal users have nothing to do with the warehouse; The warehouse will not bear any legal liability for the user's behavior.
 {
 	"wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/picture/takagen99.png",
 	"spider": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/spider/spider20221008.jar",
@@ -12,7 +14,7 @@
 			"type": "alist"
 		}
 	],
-	"homepage": "https://www.baidu.com",
+	"homepage": "http://mtv8.cf",
 	"sites": [{
 			"key": "csp_Bttoo",
 			"name": "Bttoo |SP|",
