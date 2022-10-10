@@ -265,7 +265,15 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/棋牌娱乐.json"
-		}
+		},
+{"key":"csp_xBPQ_buka","name":"🍀不卡影院","type":3,"api":"csp_xBPQ","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/buka.json"},
+{"key":"csp_Alist","name":"📁Alist网盘","type":3,"api":"csp_Alist","ext":"https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/main/alist.json"},
+{"key":"csp_Gitcafe","name":"🔖小纸条(云盘)","type":3,"api":"csp_Gitcafe","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"csp_FindZY","name":"🔍️找资源(仅搜索)","type":3,"api":"csp_FindZY","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"csp_AliPS","name":"📀盘搜(仅搜索)","type":3,"api":"csp_AliPS","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"csp_Yiso","name":"🎯一搜(仅搜索)","type":3,"api":"csp_Yiso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"Upyunso","name":"☁云搜(仅搜索)","type":3,"api":"csp_Upyunso","ext":"f6fcd2d1c0e54601805413721d89e0ca"},
+{"key":"push_ali","name":"📤Alist推送","type":3,"api":"csp_PushAgent","ext":"f6fcd2d1c0e54601805413721d89e0ca"}
 	],
 	"parses": [{
 			"name": "聚合",
@@ -283,8 +291,8 @@
 			"url": "Sequence"
 		},
 		{
-			"name": "极速[①]",
-			"type": 0,
+			"name": "自用[①]",
+			"type": 1,
 			"url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url="
 		},
 		{
@@ -352,7 +360,12 @@
 				},
 				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
 			}
-		}
+		},
+{"name":"🍁刚刚","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
+{"name":"🍁255tv","type":1,"url":"https://jx.255tv.cn/api/?key=CEh6MHLzfgVrKJtjL7&url="},
+{"name":"🍁255jx","type":1,"url":"https://jx.255tv.cn/api/?key=ZMQ3AzFpKsCal5aoqa&url="},
+{"name":"🍁icu1","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=12523586&key=bhjlntBEIJKLPQW146&url="},
+{"name":"🍁icu2","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=13483004&key=cghjkqrsyKPRV12356&url="}
 	],
 	"flags": [
 		"imgo",
