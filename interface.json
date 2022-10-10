@@ -285,7 +285,7 @@
 		{
 			"name": "极速[①]",
 			"type": 1,
-			"url": "https://jx.255tv.cn/api/?type=app&key=3t4CoYwM7x73KDaBAE&url=",
+			"url": "https://jx.255tv.cn/api/?key=3t4CoYwM7x73KDaBAE&url=",
 			"ext": {
 				"header": {
 					"User-Agent": "okhttp/4.1.0"
