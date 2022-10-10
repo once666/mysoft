@@ -282,6 +282,7 @@
             "api": "csp_Alist",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Alist网盘.json"
         },
+		   {"key":"csp_SP293","name":"2️⃣293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
         {
             "key": "csp_Gitcafe",
             "name": "小纸条 |仅搜索|",
