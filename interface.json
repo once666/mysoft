@@ -287,7 +287,7 @@
             "name": "小纸条 |仅搜索|",
             "type": 3,
             "api": "csp_Gitcafe",
-            "ext": "3865f0ab8f124688ad786a262af9b940"
+            "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
         {
             "key": "csp_FindZY",
@@ -310,7 +310,6 @@
             "api": "csp_Yiso",
             "ext": "f6fcd2d1c0e54601805413721d89e0ca"
         },
-		{"key":"t4vod",  "name":" 🇹T4亚马逊云（聚合搜索）","type":3,"api":"http://t4.ql765.top?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
         {
             "key": "Upyunso",
             "name": "云搜 |仅搜索|",
