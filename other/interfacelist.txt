@@ -2,3 +2,7 @@
 interface001.txt from
 https://ghproxy.com/https://raw.githubusercontent.com/mys2099/mys/006695814973e858a37a3631e5f129344193858f/gith.txt
 jar：gg0925.jar
+②
+interface002.txt from
+https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/b9fa14c21e9498e1ca5d116f687f98f8d69f979a/alist.json
+jar：Artifact.jar
