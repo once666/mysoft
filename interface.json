@@ -3,6 +3,19 @@
 {
     "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/picture/takagen99.png",
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/spider/spider20221008.jar",
+    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "直播",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vb25jZTY2Ni9teXNvZnQvbWFpbi9saXZlcy9saXZlLmpzb24="
+                    ]
+                }
+            ]
+        }
+    ],
     "drives": [
         {
             "name": "晴园",
@@ -592,19 +605,6 @@
                     }
                 ]
             }
-        }
-    ],
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "直播",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cDovL2xvY2FsaG9zdDo1NzA1L2xpdmVz"
-                    ]
-                }
-            ]
         }
     ],
     "sniffer": {
