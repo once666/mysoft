@@ -6,3 +6,7 @@ jar：gg0925.jar
 interface002.txt from
 https://ghproxy.com/https://raw.githubusercontent.com/alantang1977/T/b9fa14c21e9498e1ca5d116f687f98f8d69f979a/alist.json
 jar：Artifact.jar
+③
+interface003.txt from
+https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/90f2d7c5cd621158bfc40f7a82f872e680435f57/github.json
+jar：0928.jar
