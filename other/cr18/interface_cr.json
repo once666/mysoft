@@ -1,6 +1,6 @@
 {
     "wallpaper": "",
-    "spider": "http://mtv8.cf/cr/spider_cr.jar",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/other/cr18/spider_cr.jar",
     "sites": [
         {
             "key": "狼少年",
