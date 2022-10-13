@@ -297,13 +297,7 @@
             "api": "csp_xBPQ",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/不卡影院.json"
         },
-        {
-            "key": "csp_xpath_酷奇MTV",
-            "name": "酷奇MTV |JS|",
-            "type": 3,
-            "api": "csp_XPath",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/酷奇MTV.json"
-        },
+
         {
             "key": "csp_Alist",
             "name": "Alist网盘 |JS|",
@@ -311,10 +305,24 @@
             "api": "csp_Alist",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Alist网盘.json"
         },
-		
-{"key":"csp_biubiu_乐猪影视","name":"乐猪影视 |JS|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/乐猪影视(XB).json"},
-{"key":"csp_xpath_Libvio","name":"Libvio |JS|","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Libvio(XPMF).json"},		
-{"key":"csp_appysv2_美剧范","name":"美剧范 |VOD|","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
+        {
+            "key": "csp_xpath_酷奇MTV",
+            "name": "酷奇MTV |XP|",
+            "type": 3,
+            "api": "csp_XPath",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/酷奇MTV.json"
+        },
+
+
+
+
+
+
+
+{"key":"csp_biubiu_VOFLIX","name":"VOFLIX |XB|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/VOFLIX(XB).json"},
+{"key":"csp_biubiu_乐猪影视","name":"乐猪影视 |XB|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/乐猪影视(XB).json"},
+{"key":"csp_xpath_Libvio","name":"Libvio |XBMF|","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Libvio(XPMF).json"},		
+{"key":"csp_appysv2_美剧范","name":"美剧范 |AYV2|","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 
         {
             "key": "csp_Gitcafe",
