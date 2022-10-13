@@ -298,6 +298,13 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/不卡影院.json"
         },
         {
+            "key": "csp_xpath_酷奇MTV",
+            "name": "酷奇MTV |JS|",
+            "type": 3,
+            "api": "csp_XPath",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/酷奇MTV.json"
+        },
+        {
             "key": "csp_Alist",
             "name": "Alist网盘 |JS|",
             "type": 3,
