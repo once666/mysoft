@@ -311,6 +311,8 @@
             "api": "csp_Alist",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Alist网盘.json"
         },
+		
+{"key":"csp_biubiu_乐猪影视","name":"乐猪影视 |JS|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/乐猪影视(XB).json"},
 {"key":"csp_xpath_Libvio","name":"Libvio |JS|","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Libvio(XPMF).json"},		
 {"key":"csp_appysv2_美剧范","name":"美剧范 |VOD|","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 
