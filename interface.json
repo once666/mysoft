@@ -311,6 +311,9 @@
             "api": "csp_Alist",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Alist网盘.json"
         },
+		
+{"key":"csp_appysv2_爱酷影视","name":"爱酷影视 |VOD|","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+
         {
             "key": "csp_Gitcafe",
             "name": "小纸条 |仅搜索|",
