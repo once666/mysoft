@@ -1,5 +1,5 @@
 {
-    "spider" : "./web.jar",
+    "spider" : "https://ghproxy.com/https://github.com/once666/mysoft/blob/main/pybox/web.jar",
     "sites" : [
             {
             "key" : "drpy_js_360影视",
