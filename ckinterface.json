@@ -1,0 +1,58 @@
+{
+    "urls": [
+        {
+            "url": "https://jk.amtv.repl.co/qt",
+            "name": "佳宸"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚"
+        },
+        {
+            "url": "https://raw.fastgit.org/leevi0709/duo/main/v.json",
+            "name": "简单"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "liucn"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "云星日记"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "每日神器"
+        },
+        {
+            "url": "http://111.67.196.181/mtv/270.txt",
+            "name": "☀️太阳"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "🍆CH猫友️"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "dlgt7"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "dxawi/github️"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        }
+    ],
+    "vip": [
+        {
+            "url": "https://jk.amtv.repl.co/dc",
+            "name": "佳宸"
+        }
+    ]
+}
