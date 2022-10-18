@@ -32,7 +32,7 @@
     "sites": [
         {
             "key": "csp_Bttoo",
-            "name": "Bttoo |SP|",
+            "name": "Bttoo |Spider|",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -41,16 +41,16 @@
         },
         {
             "key": "csp_Lib",
-            "name": "LibVio |SP|",
+            "name": "LibVio |Spider|",
             "type": 3,
             "api": "csp_Lib",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
-		{
+        {
             "key": "csp_SP293",
-            "name": "293 影视 |SP|",
+            "name": "293 影视 |Spider|",
             "type": 3,
             "api": "csp_SP293",
             "searchable": 1,
@@ -59,7 +59,7 @@
         },
         {
             "key": "csp_SP360",
-            "name": "360 影视 |SP|",
+            "name": "360 影视 |Spider|",
             "type": 3,
             "api": "csp_SP360",
             "searchable": 1,
@@ -68,7 +68,7 @@
         },
         {
             "key": "csp_IQIYI",
-            "name": "爱奇艺果 |SP|",
+            "name": "爱奇艺果 |Spider|",
             "type": 3,
             "api": "csp_IQIYI",
             "searchable": 1,
@@ -77,7 +77,7 @@
         },
         {
             "key": "csp_QQ",
-            "name": "腾讯视频 |SP|",
+            "name": "腾讯视频 |Spider|",
             "type": 3,
             "api": "csp_QQ",
             "searchable": 1,
@@ -86,7 +86,7 @@
         },
         {
             "key": "csp_MGTV",
-            "name": "芒果视频 |SP|",
+            "name": "芒果视频 |Spider|",
             "type": 3,
             "api": "csp_MGTV",
             "searchable": 1,
@@ -95,7 +95,7 @@
         },
         {
             "key": "youku",
-            "name": "优酷视频 |SP|",
+            "name": "优酷视频 |Spider|",
             "type": 0,
             "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
             "searchable": 0,
@@ -128,7 +128,7 @@
         },
         {
             "key": "csp_Kunyu77",
-            "name": "酷云七七 |SP|",
+            "name": "酷云七七 |Spider|",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
@@ -137,7 +137,7 @@
         },
         {
             "key": "csp_apple",
-            "name": "苹果视频 |SP|",
+            "name": "苹果视频 |Spider|",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -146,7 +146,7 @@
         },
         {
             "key": "csp_Lezhu",
-            "name": "乐猪视频 |SP|",
+            "name": "乐猪视频 |Spider|",
             "type": 3,
             "api": "csp_Lezhu",
             "searchable": 1,
@@ -155,7 +155,7 @@
         },
         {
             "key": "csp_AppTT",
-            "name": "图图影视 |SP|",
+            "name": "图图影视 |Spider|",
             "type": 3,
             "api": "csp_AppTT",
             "playerType": 1,
@@ -165,7 +165,7 @@
         },
         {
             "key": "csp_kuaikan",
-            "name": "快看视频 |SP|",
+            "name": "快看视频 |Spider|",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -174,7 +174,7 @@
         },
         {
             "key": "csp_Mjxq",
-            "name": "美剧星球 |SP|",
+            "name": "美剧星球 |Spider|",
             "type": 3,
             "api": "csp_Mjxq",
             "searchable": 1,
@@ -183,7 +183,7 @@
         },
         {
             "key": "csp_Czsapp",
-            "name": "厂长资源 |SP|",
+            "name": "厂长资源 |Spider|",
             "type": 3,
             "api": "csp_Czsapp",
             "searchable": 1,
@@ -192,7 +192,7 @@
         },
         {
             "key": "哔哩",
-            "name": "哔哩哔哩 |JS|",
+            "name": "哔哩哔哩 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -202,7 +202,7 @@
         },
         {
             "key": "儿童",
-            "name": "儿童乐园 |JS|",
+            "name": "儿童乐园 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -212,7 +212,7 @@
         },
         {
             "key": "学习",
-            "name": "学习园地 |JS|",
+            "name": "学习园地 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -222,7 +222,7 @@
         },
         {
             "key": "软件",
-            "name": "软件教程 |JS|",
+            "name": "软件教程 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -232,7 +232,7 @@
         },
         {
             "key": "美食",
-            "name": "美食合集 |JS|",
+            "name": "美食合集 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -242,7 +242,7 @@
         },
         {
             "key": "音乐",
-            "name": "音乐现场 |JS|",
+            "name": "音乐现场 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -252,7 +252,7 @@
         },
         {
             "key": "热舞",
-            "name": "女团热舞 |JS|",
+            "name": "女团热舞 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -262,7 +262,7 @@
         },
         {
             "key": "戏曲",
-            "name": "精选戏曲 |JS|",
+            "name": "精选戏曲 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -272,7 +272,7 @@
         },
         {
             "key": "赛事",
-            "name": "体育赛事 |JS|",
+            "name": "体育赛事 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -282,7 +282,7 @@
         },
         {
             "key": "棋牌",
-            "name": "棋牌娱乐 |JS|",
+            "name": "棋牌娱乐 |Bili|",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -292,15 +292,14 @@
         },
         {
             "key": "csp_xBPQ_buka",
-            "name": "不卡影院 |JS|",
+            "name": "不卡影院 |Bili|",
             "type": 3,
             "api": "csp_xBPQ",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/不卡影院.json"
         },
-
         {
             "key": "csp_Alist",
-            "name": "Alist网盘 |JS|",
+            "name": "Alist网盘 |Alist|",
             "type": 3,
             "api": "csp_Alist",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Alist网盘.json"
@@ -312,18 +311,46 @@
             "api": "csp_XPath",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/酷奇MTV.json"
         },
-
-
-
-
-
-
-
-{"key":"csp_biubiu_VOFLIX","name":"VOFLIX |XB|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/VOFLIX(XB).json"},
-{"key":"csp_biubiu_乐猪影视","name":"乐猪影视 |XB|","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/乐猪影视(XB).json"},
-{"key":"csp_xpath_Libvio","name":"Libvio |XBMF|","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Libvio(XPMF).json"},		
-{"key":"csp_appysv2_美剧范","name":"美剧范 |AYV2|","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-
+        {
+            "key": "csp_biubiu_VOFLIX",
+            "name": "VOFLIX |XB|",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/VOFLIX(XB).json"
+        },
+        {
+            "key": "csp_biubiu_乐猪影视",
+            "name": "乐猪影视 |XB|",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/乐猪影视(XB).json"
+        },
+        {
+            "key": "csp_xpath_Libvio",
+            "name": "Libvio |XBMF|",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/sties/json/Libvio(XPMF).json"
+        },
+        {
+            "key": "csp_appysv2_美剧范",
+            "name": "美剧范 |AYV2|",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ttzmz.net/api.php/v1.vod"
+        },
         {
             "key": "csp_Gitcafe",
             "name": "小纸条 |仅搜索|",
