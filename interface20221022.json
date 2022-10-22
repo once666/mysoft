@@ -3,6 +3,7 @@
 {
     "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/picture/takagen99.png",
     "spider": "https://js66.coding.net/p/files/d/spider/git/tree/master/spider20221008.jar",
+//    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/once666/mysoft/main/spider/spider20221008.jar",
     "lives": [
         {
             "group": "redirect",
