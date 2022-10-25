@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://gitee.com/once678/files/raw/master/wallpaper/takagen99.png",
-    "spider": "https://gitee.com/once678/files/blob/master/spider/custom_spider.jar",
+    "spider": "https://gitee.com/once678/files/blob/master/spider/spider20221024.jar",
     "lives": [
         {
             "group": "redirect",
