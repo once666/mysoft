@@ -10,3 +10,7 @@ jar：Artifact.jar
 interface003.txt from
 https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/90f2d7c5cd621158bfc40f7a82f872e680435f57/github.json
 jar：0928.jar
+
+④interface004.txt from
+https://ghproxy.com/https://raw.githubusercontent.com/suanjin/suanjin.github.io/fea5ea375b08eda4d7fc1e38f53408c2ff2be32e/main/1010.json
+jar：shenqi.jar
