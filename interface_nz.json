@@ -45,7 +45,7 @@
         },
 		{
             "key": "csp_xpath_酷奇MTV",
-            "name": "酷奇MTV |XP|",
+            "name": "酷奇音乐 |XP|",
             "type": 3,
             "api": "csp_XPath",
             "ext": "https://gitee.com/once678/files/raw/master/sties/json/酷奇MTV(XP).json"
