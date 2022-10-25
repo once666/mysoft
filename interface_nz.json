@@ -18,9 +18,18 @@
     "sites": [
         {
             "key": "csp_IQIYI",
-            "name": "爱奇艺果 |Spider|",
+            "name": "爱奇艺 |Spider|",
             "type": 3,
             "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_MGTV",
+            "name": "芒果视频 |Spider|",
+            "type": 3,
+            "api": "csp_MGTV",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -34,15 +43,13 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_MGTV",
-            "name": "芒果视频 |Spider|",
+		{
+            "key": "csp_xpath_酷奇MTV",
+            "name": "酷奇MTV |XP|",
             "type": 3,
-            "api": "csp_MGTV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
+            "api": "csp_XPath",
+            "ext": "https://gitee.com/once678/files/raw/master/sties/json/酷奇MTV(XP).json"
+        },
     ],
     "parses": [
         {
