@@ -403,6 +403,20 @@
             "type": 2,
             "url": "Sequence"
         },
+		{"name":"解析酷享","type":1,"url":"http://pandown.pro/app/kxjx.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name":"解析江湖","type":1,"url":"http://pandown.pro/app/ysmjx.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"解析左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{ "name": "解析蓝狐", "type": 1, "url":" https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url="},
+{"name":"解析keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{ "name" : "解析nhusp", "type" : 1, "url" : "https://json.nhusp.cn/api/?key=54R5NpHXrscmMuXeXk&url=" ,"ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{ "name" : "解析荣兴", "type" : 1, "url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url=" },
+{ "name" : "解析懒懒1", "type" : 1, "url" : "http://123.57.56.94:9931/lanlan/?url=" },
+{ "name" : "解析懒懒2", "type" : 1, "url" : "http://lanlan.ckflv.cn/?url=", "ext" : { "flag" : [ "qiyi", "qq", "letv", "sohu", "youku", "mgtv", "bilibili", "wasu", "xigua", "1905"] } },
+{"name":"解析能解","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+{"name":"解析萝莉","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=ekloswzABCGHKLOT58&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+{"name":"解析直解","type":1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+{"name":"解析rxvip","type":1,"url": "https://vip.rongxingvr.top/api/?key=CwQXkIXGfaUNGVomez&url=","ext": {"flag": ["rx", "ltnb", "renrenmi", "rongxing", "bilibili", "哔哩哔哩", "哔哩", "youku", "优酷", "qiyi", "爱奇艺", "奇艺", "qq", "腾讯", "mgtv", "芒果", "sohu", "搜狐", "letv", "乐视", "xigua", "CL4K", "西瓜"]}},
+
 {"name":"极速[①]","type":1,"url":" http://1.117.111.78:93/home/api?type=ys&uid=24751&key=mqsuvzEFHLMQRWXZ28&url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"},"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {
             "name": "极速[②]",
