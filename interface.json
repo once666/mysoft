@@ -439,9 +439,9 @@
             }
         },
 {
-            "name": "测试[②]",
+            "name": "测试[②]11",
             "type": 1,
-            "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
+            "url": "http://1.117.111.78:93/home/api?type=ys&uid=24751&key=demntvwzBCKLOPRSY3&url=",
             "ext": {
                 "header": {
                     "User-Agent": "okhttp/4.1.0"
