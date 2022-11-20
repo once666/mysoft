@@ -316,6 +316,14 @@
             "jar": "http://39.103.212.40:2001/spider/spider20221119.jar"
         },
         {
+            "key" : "drpy_js_优酷",
+            "name" : "优酷视频 |DRPY|",
+            "type" : 3,
+            "api" : "http://39.103.212.40:2003/2211200901/lib/drpy.min.js",
+            "ext" : "http://39.103.212.40:2003/2211200901/js/优酷.js",
+            "jar": "http://39.103.212.40:2003/2211200901/w.jar"
+        },
+        {
             "key": "csp_Alist",
             "name": "Alist网盘 |Alist|",
             "type": 3,
