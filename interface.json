@@ -419,53 +419,8 @@
             "type": 2,
             "url": "Sequence"
         },
-        {
-            "name": "线路①",
-            "type": 1,
-            "url": "http://lanlan.ckflv.cn/?url=",
-            "ext": {
-                "flag": [
-                    "qiyi",
-                    "qq",
-                    "letv",
-                    "sohu",
-                    "youku",
-                    "mgtv",
-                    "bilibili",
-                    "wasu",
-                    "xigua",
-                    "1905"
-                ]
-            }
-        },
-        {
-            "name": "线路②",
-            "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "CL4K",
-                    "renrenmi",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
-        },
+       {"name":"星辰","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=22ea7ae4746073f5ea13e9079c024c7d&url=","header":{"User-Agent":"Mozilla/5.0"}},
+{"name":"爱酷","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=28426599&key=dglrstuEFGHOTW3467&url="}
         {
             "name": "线路③",
             "type": 1,
