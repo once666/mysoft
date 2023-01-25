@@ -198,7 +198,7 @@
             "filterable": "1",
             "ext": "bdc1c75081e5e477189a463baa47e392"
         },
-		{
+        {
             "key": "哔哩",
             "name": "哔哩哔哩 ┃🅱️Bili┃",
             "type": 3,
@@ -208,7 +208,7 @@
             "filterable": 1,
             "ext": "http://5101314.xyz/tvbox/sites/json/哔哩哔哩.json"
         },
-		{
+        {
             "key": "儿童",
             "name": "儿童乐园 ┃🅱️Bili┃",
             "type": 3,
@@ -218,7 +218,7 @@
             "filterable": 1,
             "ext": "http://5101314.xyz/tvbox/sites/json/儿童乐园.json"
         },
-		{
+        {
             "key": "学习",
             "name": "学习园地 ┃🅱️Bili┃",
             "type": 3,
@@ -298,60 +298,60 @@
             "filterable": 1,
             "ext": "http://5101314.xyz/tvbox/sites/json/棋牌娱乐.json"
         },
-		{
+        {
             "key": "csp_xpath_酷奇MTV",
             "name": "酷奇MTV ┃❤️XP┃",
             "type": 3,
             "api": "csp_XPath",
-			"searchable": 0,
+            "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
             "ext": "http://5101314.xyz/tvbox/sites/json/酷奇MTV.json"
         },
-		{
-      "key": "Zhaozy",
-      "name": "找资源 ┃❤️网盘┃",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜 ┃❤️网盘┃",
-      "type": 3,
-      "api": "csp_YiSo",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key": "PanSou",
-      "name": "盘搜 ┃❤️网盘┃",
-      "type": 3,
-      "api": "csp_PanSou",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    },
-    {
-      "key": "UpYun",
-      "name": "UP搜 ┃❤️网盘┃",
-      "type": 3,
-      "api": "csp_UpYun",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://ali.饭太硬.ml/tok"
-    }
+        {
+            "key": "YiSo",
+            "name": "易搜 ┃❤️网盘┃",
+            "type": 3,
+            "api": "csp_YiSo",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "PanSou",
+            "name": "盘搜 ┃❤️网盘┃",
+            "type": 3,
+            "api": "csp_PanSou",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "UpYun",
+            "name": "UP搜 ┃❤️网盘┃",
+            "type": 3,
+            "api": "csp_UpYun",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        },
+        {
+            "key": "Zhaozy",
+            "name": "找资源 ┃❤️网盘┃",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://ali.饭太硬.ml/tok"
+        }
     ],
     "parses": [
         {
